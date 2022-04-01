@@ -15,7 +15,7 @@
    <img src="https://media.giphy.com/media/115BJle6N2Av0A/giphy.gif" width="50"> Become me...  
      - 24 year old<br />
      - student at Tan Trao University<br />
-     - singer<br />
+     - Email: dosonhytq@gmail.com<br />
      - code: [HTML, CSS, C++,python, pascal]<br />
   
      
