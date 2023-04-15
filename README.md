@@ -23,6 +23,6 @@ Welcome! I am a computer vision developer with expertise in Python, C++, JavaScr
 
 ## Contact Me
 
-I am open to collaboration on computer vision projects. Feel free to reach out to me via email at Dosonhytq@gmail.com or connect with me on [LinkedIn](https://linkedin.com/in/your-profile).
+I am open to collaboration on computer vision projects. Feel free to reach out to me via email at Dosonhytq@gmail.com or connect with me on +84 878 868 969.
 ##
 ![hi](https://i.gifer.com/Pic3.gif)
