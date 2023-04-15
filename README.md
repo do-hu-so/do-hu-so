@@ -1,4 +1,4 @@
-# Hi! I'm [Huu-Son .Do]
+# Hi! I'm  Huu-Son .Do
 
 Welcome! I am a computer vision developer with expertise in Python, C++, JavaScript, and Java.
 
