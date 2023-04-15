@@ -24,4 +24,4 @@ Welcome! I am a computer vision developer with expertise in Python, C++, JavaScr
 
 I am open to collaboration on computer vision projects. Feel free to reach out to me via email at Dosonhytq@gmail.com or connect with me on [LinkedIn](https://linkedin.com/in/your-profile).
 ##
-![hi]([https://i.gifer.com/7l8i.gif](https://i.gifer.com/Pic3.gif))
+![hi](https://i.gifer.com/Pic3.gif)
