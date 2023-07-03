@@ -7,6 +7,7 @@ Welcome! I am a computer vision developer with expertise in Python, C++, JavaScr
 - Image and video processing
 - Object recognition and tracking
 - Object detection and localization
+- 2D/3D Estimation
 
 ## Technical Skills
 
