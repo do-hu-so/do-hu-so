@@ -76,6 +76,7 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="doson-email" />
   </a>
 </p>
+
 ### Experience
 
 - Image and video processing
