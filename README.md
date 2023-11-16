@@ -88,11 +88,11 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
 
 ### Projects
 
-- [Project 1](https://example.com/project1): Object recognition using Python and OpenCV.
-- [Project 2](https://example.com/project2): Real-time object tracking. 
-- [Project 3](https://example.com/project3): REAL-TIME HAND ACTION DETECTION AND CLASSIFICATION ON THE EGOCENTRIC VISION DATASET BASED ON MEDIAPIPE.
-- [Project 4](https://example.com/project4): 3D human pose estimation from Sport Videos using Mediapipe Framework.
-- [Project 5](https://example.com/project4): Visual Slam - Odometry for python.
+- [Project 1](https://example.com/project1): Son Huu-Do, "Object recognition using Python and OpenCV", TT University, 2022.
+- [Project 2](https://example.com/project2): Son Huu-Do, "Real-time object tracking", 2022. 
+- [Project 3](https://example.com/project3): Son Huu-Do, "REAL-TIME HAND ACTION DETECTION AND CLASSIFICATION ON THE EGOCENTRIC VISION DATASET BASED ON MEDIAPIPE", TN university, 2022.
+- [Project 4](https://example.com/project4): Son Huu-Do, "3D human pose estimation from Sport Videos using Mediapipe Framework", TT University, 2023.
+- [Project 5](https://example.com/project4): Son Huu-Do, "Visual Slam - Odometry for python", TT University, 2023.
 ## Contact Me
 -->
 Here are some ideas to get you started:
