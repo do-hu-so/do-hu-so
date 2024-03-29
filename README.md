@@ -86,18 +86,10 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
 - Odometry
 - visual Slam
 
-### Projects
-
-- [Project 1](https://tckh.daihoctantrao.edu.vn/index.php/sjttu/article/view/975): Son Huu-Do, "3D HUMAN POSE ESTIMATION FROM SPORT VIDEOS USING MEDIAPIPE FRAMEWORK", TT University, 2022.
-- [Project 2](https://example.com/project2): Son Huu-Do, "Real-time object tracking", 2022. 
-- [Project 3](https://www.academia.edu/114277180/REAL_TIME_HAND_ACTION_DETECTION_AND_CLASSIFICATION_ON_THE_EGOCENTRIC_VISION_DATASET_BASED_ON_MEDIAPIPE): Son Huu-Do, "REAL-TIME HAND ACTION DETECTION AND CLASSIFICATION ON THE EGOCENTRIC VISION DATASET BASED ON MEDIAPIPE", TN university, 2022.
-- [Project 4](https://www.researchgate.net/publication/371274443_UOC_LUONG_TU_THE_NGUOI_3D_TRONG_VIDEO_THE_THAO_SU_DUNG_MEDIAPIPE): Son Huu-Do, "3D human pose estimation from Sport Videos using Mediapipe Framework", TT University, 2023.
-- [Project 5](https://example.com/project4): Son Huu-Do, "Visual Slam - Odometry for python", TT University, 2023.
-
 ### Paper
-- [Project 1](https://tckh.daihoctantrao.edu.vn/index.php/sjttu/article/view/975): Son Huu-Do, "3D HUMAN POSE ESTIMATION FROM SPORT VIDEOS USING MEDIAPIPE FRAMEWORK", TT University, 2022.
-- [Project 3](https://www.academia.edu/114277180/REAL_TIME_HAND_ACTION_DETECTION_AND_CLASSIFICATION_ON_THE_EGOCENTRIC_VISION_DATASET_BASED_ON_MEDIAPIPE): Son Huu-Do, "REAL-TIME HAND ACTION DETECTION AND CLASSIFICATION ON THE EGOCENTRIC VISION DATASET BASED ON MEDIAPIPE", TN university, 2022.
--  [Project 4](https://www.researchgate.net/publication/371274443_UOC_LUONG_TU_THE_NGUOI_3D_TRONG_VIDEO_THE_THAO_SU_DUNG_MEDIAPIPE): Son Huu-Do, "3D human pose estimation from Sport Videos using Mediapipe Framework", TT University, 2023.
+- [Paper 1](https://tckh.daihoctantrao.edu.vn/index.php/sjttu/article/view/975): Son Huu-Do, "3D HUMAN POSE ESTIMATION FROM SPORT VIDEOS USING MEDIAPIPE FRAMEWORK", TT University, 2022.
+- [Paper 2](https://www.academia.edu/114277180/REAL_TIME_HAND_ACTION_DETECTION_AND_CLASSIFICATION_ON_THE_EGOCENTRIC_VISION_DATASET_BASED_ON_MEDIAPIPE): Son Huu-Do, "REAL-TIME HAND ACTION DETECTION AND CLASSIFICATION ON THE EGOCENTRIC VISION DATASET BASED ON MEDIAPIPE", TN university, 2022.
+- [Paper 3](https://www.researchgate.net/publication/371274443_UOC_LUONG_TU_THE_NGUOI_3D_TRONG_VIDEO_THE_THAO_SU_DUNG_MEDIAPIPE): Son Huu-Do, "3D human pose estimation from Sport Videos using Mediapipe Framework", TT University, 2023.
 ## Contact Me
 -->
 Here are some ideas to get you started:
