@@ -83,7 +83,7 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
 - Object recognition and tracking
 - Object detection and localization
 - 2D/3D Estimation
-- Odometry
+- Visual Odometry
 - visual Slam
 
 ### Paper
