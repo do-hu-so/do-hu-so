@@ -87,6 +87,7 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
 - visual Slam
 ### DaTaset
 - [Dataset 1](https://drive.google.com/drive/folders/16Dx_nORUvUHFg2BU9mm8aBYMvtAzE9m7 ): Huu-Son Do, Trung-Hieu Te, Van-Nam Phan, Van-Hung Le, "TQU-SLAM benchmark dataset and Feature-based for building Monocular VO", TT University, 2024.
+- [Dataset 2](https://drive.google.com/drive/folders/1kN626tDV7ABWLpAbWHrujDwcIwCmveRX): Huu-Son Do, Trung-Hieu Te, Van-Nam Phan, Van-Hung Le, "TQU-Hand dataset for 15 hand positions", TT University, 2023.
 ### Paper
 - [Paper 1](https://tckh.daihoctantrao.edu.vn/index.php/sjttu/article/view/975): Son Huu-Do, "3D HUMAN POSE ESTIMATION FROM SPORT VIDEOS USING MEDIAPIPE FRAMEWORK", TT University, 2022.
 - [Paper 2](https://www.academia.edu/114277180/REAL_TIME_HAND_ACTION_DETECTION_AND_CLASSIFICATION_ON_THE_EGOCENTRIC_VISION_DATASET_BASED_ON_MEDIAPIPE): Van-Hung Le, Danh-Tuyen Hoang, Huu-Son Do*, Trung-Hieu Te, Van-Nam Phan, "REAL-TIME HAND ACTION DETECTION AND CLASSIFICATION ON THE EGOCENTRIC VISION DATASET BASED ON MEDIAPIPE",TNU Journal of Sciene and Technology, 2022
