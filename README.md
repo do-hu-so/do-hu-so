@@ -85,12 +85,14 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
 - 2D/3D Estimation
 - Visual Odometry
 - visual Slam
-
+### DaTaset
+- [Dataset 1](https://drive.google.com/drive/folders/16Dx_nORUvUHFg2BU9mm8aBYMvtAzE9m7 ): Huu-Son Do, Trung-Hieu Te, Van-Nam Phan, Van-Hung Le, "TQU-SLAM benchmark dataset and Feature-based for building Monocular VO", TT University, 2024.
 ### Paper
 - [Paper 1](https://tckh.daihoctantrao.edu.vn/index.php/sjttu/article/view/975): Son Huu-Do, "3D HUMAN POSE ESTIMATION FROM SPORT VIDEOS USING MEDIAPIPE FRAMEWORK", TT University, 2022.
 - [Paper 2](https://www.academia.edu/114277180/REAL_TIME_HAND_ACTION_DETECTION_AND_CLASSIFICATION_ON_THE_EGOCENTRIC_VISION_DATASET_BASED_ON_MEDIAPIPE): Van-Hung Le, Danh-Tuyen Hoang, Huu-Son Do*, Trung-Hieu Te, Van-Nam Phan, "REAL-TIME HAND ACTION DETECTION AND CLASSIFICATION ON THE EGOCENTRIC VISION DATASET BASED ON MEDIAPIPE",TNU Journal of Sciene and Technology, 2022
 - [Paper 3](https://www.researchgate.net/publication/371274443_UOC_LUONG_TU_THE_NGUOI_3D_TRONG_VIDEO_THE_THAO_SU_DUNG_MEDIAPIPE): Thai-Son Dinh, Huu-Son Do*, Trung-Hieu Te, Van-Nam Phan, Van-Hung Le, "3D human pose estimation from Sport Videos using Mediapipe Framework",Scientific Journal of Tan Trao University (SJTTU) with ISSN: 2354- 1431, 6/2023 (accepted).
 - [Paper 4](https://ijeecs.iaescore.com/index.php/IJEECS/article/view/36458): Van-Dinh Do, Huu-Son Do, Trung-Hieu Te, Van-Nam Phan, Van-Hung Le, "TQU-HG dataset and comparative study for hand gesture recognition of RGB-based images using deep learning",The Indonesian Journal of Electrical Engineering and Computer Science (IJEECS), p-ISSN: 2502-4752, e-ISSN: 2502-4760.
+- [Paper 5](https://doi.org/10.3390/fi16050174): Thi-Thao Do, Huu-Son Do, Trung-Hieu Te, Van-Nam Phan, Van-Hung Le, "TQU-SLAM Benchmark Dataset for Comparative Study to Build Visual Odometry Based on Extracted Features from Feature Descriptors and Deep Learning",Future Internet, 16(5), 174. 24 April 2024 / Revised: 7 May 2024 / Accepted: 15 May 2024 / Published: 17 May 2024.
 ## Contact Me
 -->
 Here are some ideas to get you started:
