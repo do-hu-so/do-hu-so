@@ -82,6 +82,7 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
 - Image and video processing
 - Object recognition and tracking
 - Object detection and localization
+- hand/body action, gesture, hand/body pose
 - 2D/3D Estimation
 - Visual Odometry
 - visual Slam
