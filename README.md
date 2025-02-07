@@ -97,6 +97,8 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
 - [Paper 5 - SCOPUS Q2, ESCI, IF: 3.4](https://doi.org/10.3390/fi16050174): Thi-Thao Do, Huu-Son Do, Trung-Hieu Te, Van-Nam Phan, Van-Hung Le, "TQU-SLAM Benchmark Dataset for Comparative Study to Build Visual Odometry Based on Extracted Features from Feature Descriptors and Deep Learning",Future Internet, 16(5), 174. 24 April 2024 / Revised: 7 May 2024 / Accepted: 15 May 2024 / Published: 17 May 2024.
 - [Paper 6 - SCOPUS Q2, ESCI, IF: 1.5](https://etasr.com/index.php/ETASR/article/view/7611): Huu-Son Do, Trung-Hieu Te, Van-Nam Phan, Van-Hung Le, "TQU-SLAM Benchmark Feature-based Dataset for Building Monocular VO",  Vol. 14 No. 4 (2024): August, 2024, Pages: 15330-15337.
 - [Paper 7 ](https://tckh.daihoctantrao.edu.vn/index.php/sjttu/article/view/1283): Huu-Son Do, Trung-Hieu Te, Van-Nam Phan, "RESEARCH ON WEBSITE DESIGN SYSTEM OF TAN TRAO UNIVERSITY AND SPECIALIZED FACULTIES",  Vol. 10 No. 4 (2024): Natural Science - Engineering - Technology.
+- [Paper 8 ](): Van-Hung Le, Huu-Son Do, Trung-Hieu Te, Van-Nam Phan, Ninh-Quang Tri "Fine-tuning VO estimation Model Based on Deep Learning of TQU-SLAM Benchmark Dataset", A Springer Nature Computer Sdence book series (CCIS, LNAI, LNBI, LNBIP or LNCS). ready for publication.
+- [Paper 9 ](): Van-Hung Le, Huu-Son Do, Van-Thuan Nguyen, Tat-Hung Do, Ninh-Quang Tri "Improved MLF VO-F Based on Loss Function for VOE from RGB image sequence". (submitted Signal, Image and Video Processing) 
 ## Contact Me
 -->
 Here are some ideas to get you started:
