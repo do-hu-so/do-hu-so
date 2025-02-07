@@ -96,6 +96,7 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
 - [Paper 4 - SCOPUS Q3](https://ijeecs.iaescore.com/index.php/IJEECS/article/view/36458): Van-Dinh Do, Huu-Son Do, Trung-Hieu Te, Van-Nam Phan, Van-Hung Le, "TQU-HG dataset and comparative study for hand gesture recognition of RGB-based images using deep learning",The Indonesian Journal of Electrical Engineering and Computer Science (IJEECS), p-ISSN: 2502-4752, e-ISSN: 2502-4760.
 - [Paper 5 - SCOPUS Q2, ESCI, IF: 3.4](https://doi.org/10.3390/fi16050174): Thi-Thao Do, Huu-Son Do, Trung-Hieu Te, Van-Nam Phan, Van-Hung Le, "TQU-SLAM Benchmark Dataset for Comparative Study to Build Visual Odometry Based on Extracted Features from Feature Descriptors and Deep Learning",Future Internet, 16(5), 174. 24 April 2024 / Revised: 7 May 2024 / Accepted: 15 May 2024 / Published: 17 May 2024.
 - [Paper 6 - SCOPUS Q2, ESCI, IF: 1.5](https://etasr.com/index.php/ETASR/article/view/7611): Huu-Son Do, Trung-Hieu Te, Van-Nam Phan, Van-Hung Le, "TQU-SLAM Benchmark Feature-based Dataset for Building Monocular VO",  Vol. 14 No. 4 (2024): August, 2024, Pages: 15330-15337.
+- [Paper 7 ](https://tckh.daihoctantrao.edu.vn/index.php/sjttu/article/view/1283): Huu-Son Do, Trung-Hieu Te, Van-Nam Phan, "RESEARCH ON WEBSITE DESIGN SYSTEM OF TAN TRAO UNIVERSITY AND SPECIALIZED FACULTIES",  Vol. 10 No. 4 (2024): Natural Science - Engineering - Technology.
 ## Contact Me
 -->
 Here are some ideas to get you started:
