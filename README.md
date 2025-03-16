@@ -3,7 +3,7 @@
 
 <a href="https://samujjwaal.me/"><img src="https://github.com/do-hu-so/do-hu-so/blob/main/doson.jpg" align="right" height="215" /></a>
 
-I am a computer vision developer with over 3 Years of Experience in DL/ML Engineering.
+I am a computer vision developer with over 4 Years of Experience in DL/ML Engineering.
 I am passionate about Data Science 📊, Pythonic programming 🐍, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
  **I am open to**:
