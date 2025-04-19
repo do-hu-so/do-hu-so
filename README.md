@@ -98,7 +98,8 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
 - [Paper 6 - SCOPUS Q2, ESCI, IF: 1.5](https://etasr.com/index.php/ETASR/article/view/7611): Huu-Son Do, Trung-Hieu Te, Van-Nam Phan, Van-Hung Le, "TQU-SLAM Benchmark Feature-based Dataset for Building Monocular VO",  Vol. 14 No. 4 (2024): August, 2024, Pages: 15330-15337.
 - [Paper 7 ](https://tckh.daihoctantrao.edu.vn/index.php/sjttu/article/view/1283): Huu-Son Do, Trung-Hieu Te, Van-Nam Phan, "RESEARCH ON WEBSITE DESIGN SYSTEM OF TAN TRAO UNIVERSITY AND SPECIALIZED FACULTIES",  Vol. 10 No. 4 (2024): Natural Science - Engineering - Technology.
 - [Paper 8 ](): Van-Hung Le, Huu-Son Do, Trung-Hieu Te, Van-Nam Phan, Ninh-Quang Tri "Fine-tuning VO estimation Model Based on Deep Learning of TQU-SLAM Benchmark Dataset", A Springer Nature Computer Sdence book series (CCIS, LNAI, LNBI, LNBIP or LNCS). ready for publication.
-- [Paper 9 ](): Van-Hung Le, Huu-Son Do, Van-Thuan Nguyen, Tat-Hung Do, Ninh-Quang Tri "Improved MLF VO-F Based on Loss Function for VOE from RGB image sequence". (submitted Signal, Image and Video Processing) 
+- [Paper 9 SCOPUS Q1, ESCI, IF: 3.5](): Huu-Son Do, Van-Hung Le, Van-Thuan Nguyen, Tat-Hung Do, Ninh-Quang Tri  "Improved Multi-Layer Fusion Framework Based on 4 Loss Function for Visual Odometry Estimation 5 from color image sequence". International Journal of Technology, 2025,  ISSN: 2086-9614 (Accepted and ready for publication)
+- [Paper 10 ](): Huu-Son Do, Van-Hung Le, Thi-Ha Phuong Nguyen, Van-Thuan Nguyen, Tat-Hung Do "Combination of MLF-VO-F and Loss Functions for VOE from RGB image sequence Using Deep Learning" Indonesian Journal of Electrical Engineering and Computer Science, 2025, Paper ID# 43425 (Accepted and ready for publication)
 ## Contact Me
 -->
 Here are some ideas to get you started:
