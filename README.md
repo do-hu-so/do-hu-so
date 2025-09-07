@@ -100,6 +100,7 @@ I am passionate about Data Science 📊, Pythonic programming 🐍, and open sou
 - [Paper 8 Q1, ESCI, IF: 3.5](https://doi.org/10.14716/ijtech.v16i4.7517): Huu-Son Do, Van-Hung Le, Van-Thuan Nguyen, Tat-Hung Do, Ninh-Quang Tri  "Improved Multi-Layer Fusion Framework Based on Loss Function for Visual Odometry Estimation from Color Image Sequence". International Journal of Technology, 2025,  ISSN: 2086-9614, IJtech Vol 16, No 4 (2025)
 - [Paper 9 Q4](https://link.springer.com/chapter/10.1007/978-3-032-01948-6_7): Van-Hung Le, Huu-Son Do, Trung-Hieu Te, Van-Nam Phan, Ninh-Quang Tri "Fine-tuning VO estimation Model Based on Deep Learning of TQU-SLAM Benchmark Dataset", A Springer Nature Computer Sdence book series (CCIS, LNAI, LNBI, LNBIP or LNCS).
 - [Paper 10 ](): Huu-Son Do, Van-Hung Le, Thi-Ha Phuong Nguyen, Van-Thuan Nguyen, Tat-Hung Do "Combination of MLF-VO-F and Loss Functions for VOE from RGB image sequence Using Deep Learning" Indonesian Journal of Electrical Engineering and Computer Science, 2025, Paper ID# 43425 (Accepted and ready for publication)
+- [Paper 11 Q2 ISI](): Huu-Son Do, Van-Hung Le, Minh-Quang Nguyen, Trung-Hieu Te, Van-Nam Phan " Control home appliances using Hand gesture recognition based on Deep Learning and Arduino UNO via infrared signal"  Journal of Robotics and Control (JRC), 2025,  Volume 3, Issue 2, March 2022,  ISSN: 2715-5072, DOI: 10.18196 (Accepted and ready for publication)
 ## Contact Me
 -->
 Here are some ideas to get you started:
